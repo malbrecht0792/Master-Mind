@@ -1,0 +1,1 @@
+This project is to create a command line version of the game Master Mind to apply the concepts of object oriented programming
